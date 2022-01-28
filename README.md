@@ -2,9 +2,9 @@
 Apply arbitrary lipstick colors to a face image based on facial landmark detection
 
 ## Algorithm Outline:
-Detect the face region and facial landmarks.  
-Extract landmarks around the lip region and generate a mask for the lip region.  
-Change the color of the lip region, applying Gaussian blurring and seamless cloning to preserve the texture of the lip.
+* Detect the face region and facial landmarks.  
+* Extract landmarks around the lip region and generate a mask for the lip region.  
+* Change the color of the lip region, applying Gaussian blurring and seamless cloning to preserve the texture of the lip.
 
 ## Video Demo:  
 https://youtu.be/XOA7W6yfNDE
