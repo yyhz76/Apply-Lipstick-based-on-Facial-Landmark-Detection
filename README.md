@@ -12,8 +12,8 @@ https://youtu.be/XOA7W6yfNDE
 ## Image Demo 1: Before (left) and After (right) Applying Lipstick  
 ![alt text](https://github.com/yyhz76/Apply-Lipstick-based-on-Facial-Landmark-Detection/blob/main/demo/demo1.png)<br /><br />  
 
-### Facial Landmarks and Lip Mask
-![alt text](https://github.com/yyhz76/Apply-Lipstick-based-on-Facial-Landmark-Detection/blob/main/demo/no_blur_vs_has_blur.png)<br /><br /> 
+### Facial Landmarks (left) and Lip Mask (right)
+![alt text](https://github.com/yyhz76/Apply-Lipstick-based-on-Facial-Landmark-Detection/blob/main/demo/landmark_and_lip_mask.png)<br /><br /> 
 
 ### Gaussian Blur Off (left) vs Gaussian Blur On (right)
 Blurring the lip boundary region make the lip appear more natural after applying the color change
