@@ -26,3 +26,6 @@ Seamless Cloning preserves the texture of the lip after applying the color chang
 
 ## Image Demo 2: Before (left) and After (right) Applying Lipstick     
 ![alt text](https://github.com/yyhz76/Apply-Lipstick-based-on-Facial-Landmark-Detection/blob/main/demo/demo2.png)<br /><br />  
+
+
+Image copyrights belong to https://learnopencv.com/
